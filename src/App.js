@@ -20,7 +20,7 @@ function App() {
     },
     {
         name: 'Image',
-        cell: (row) => <Image src={row.coverimage} width={120} thumbnail={true} />,
+        cell: (row) => <Image src={row.coverimage} width={100} />,
 				width: '150px'
     },
     {
