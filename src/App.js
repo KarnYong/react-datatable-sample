@@ -79,7 +79,7 @@ function App() {
 
 	return (
 		<DataTable
-			title="Users"
+			title="แหล่งท่องเที่ยวรอบโลก"
 			columns={columns}
 			data={data}
 			progressPending={loading}
